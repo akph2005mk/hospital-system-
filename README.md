@@ -11,7 +11,6 @@ The hospital system is a software application that manages patient appointments,
 - Patients should be able to schedule appointments for a specific specialization by selecting a date and time.
 - The system should display available time slots for the selected specialization and date.
 - Patients should be able to select a time slot and confirm their appointment.
-- The system should send a confirmation email to the patient with the appointment details.
 
 ### Patient Queue Management
 
